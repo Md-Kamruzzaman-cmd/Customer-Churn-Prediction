@@ -123,7 +123,7 @@ Feature importance analysis identified the following key churn drivers:
 
 
 ### Feature Importance
-![Feature Importance](Visuals/Top_10_feature_s.png)
+![Feature Importance](Visuals/Top_10_features.png)
 
 ---
 
