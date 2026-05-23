@@ -119,7 +119,9 @@ Feature importance analysis identified the following key churn drivers:
 ## 📷 Visualizations
 
 ### Churn Distribution
+![Customer Churn Distribution](visuals/Customer_Churn_Distribution.png)
 ![Churn Distribution](visuals/churn_distribution.png)
+
 
 ### Feature Importance
 ![Feature Importance](visuals/feature_importance.png)
