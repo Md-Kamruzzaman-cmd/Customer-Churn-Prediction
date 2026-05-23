@@ -151,6 +151,6 @@ customer-churn-prediction/
 ```
 ---
 
-## 👤 Md Kamruzzaman
+## 👤 Author
 
 Md Kamruzzaman
